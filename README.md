@@ -22,7 +22,7 @@ As you can see in this screen shot that the color formating code was correct how
 
 # Final product and spactacular result!
 
-I just want to thank Sowmya Srinivasan for showing me some great debugging techniqes and helping me get over the hump in the road, and as you can see my code is now fully functional and works as intended for what was needed to succeed in the project.
+I just want to thank Sowmya Srinivasan for showing me some great debugging techniques and helping me get over the hump in the road, and as you can see my code is now fully functional and works as intended for what was needed to succeed in the project.
 
 # Source Excel Sheet is first screenshot all others are final products
 ![image](https://user-images.githubusercontent.com/79068185/112771583-5caa2480-8fe1-11eb-9d93-682bae938856.png)
